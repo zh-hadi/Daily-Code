@@ -1,0 +1,10 @@
+function,
+    inline function
+    basic function
+struct,
+    how to create struct
+    how to call non method associated function
+    how imp work
+    in emutable, mutble work
+
+touple,
