@@ -8,3 +8,15 @@ struct,
     in emutable, mutble work
 
 touple,
+
+vec
+    clear()
+    push()
+    pop() return option value
+    extends_from_slice()
+
+    value move with owner ship
+
+    append(&mut value)
+    vec.contains(&value)
+    vec.is_empty()
